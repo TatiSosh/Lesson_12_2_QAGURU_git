@@ -7,7 +7,7 @@ public class Main {
         System.out.println("А то что-то не работало");
         System.out.println("Теперь все норм");
     }
-    public static void another() {
+    public void another() {
         System.out.println("HELLO, EVERYBODY!");
     }
 }
